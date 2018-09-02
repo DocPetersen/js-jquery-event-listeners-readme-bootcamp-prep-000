@@ -17,3 +17,7 @@ function frameIt() {
     $(this).addClass('tasty')
   })
 }
+
+function pressIt() {
+  
+}
