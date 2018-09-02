@@ -5,3 +5,5 @@ $(document).ready(function(){
   submitIt();
   
 });
+
+function getIt$
